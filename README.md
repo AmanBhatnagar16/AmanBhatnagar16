@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman
-16 Yr old 
+17 Yr old 
 
 - 👀 I’m interested in ...
 Linux ,Technology , Computer Science
