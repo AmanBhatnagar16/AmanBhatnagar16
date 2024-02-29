@@ -6,6 +6,7 @@ Linux ,Technology , Computer Science
 
 ****
 - 🌱 I’m currently learning ...
+- Mainly Web Development 
 Linux ,  Java , etc .
 ---------------
 
